@@ -131,7 +131,7 @@ Thank you for using Journey Genie! We're so glad you did. And a special thanks t
 [<img height="32" width="32" alt="Jira" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg"/>]()
 [<img height="32" width="32" alt="Slack" src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg"/>]()
 [<img height="32" width="32" alt="Google Meet" src="https://cdn.worldvectorlogo.com/logos/google-meet-icon-2020-.svg"/>]()
-[<img height="32" width="32" alt="Lucid Chart" src="README_media/Lucid_Chart.jpeg"/>]()
+[<img height="32" width="32" alt="Lucid Chart" src="Lucid_Chart.jpeg"/>]()
 
 ---
 <a name="license"></a>
