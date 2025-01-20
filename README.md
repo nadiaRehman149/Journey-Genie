@@ -1,5 +1,5 @@
 <a name="top"></a>
-![logo.png](README_media/logo.png)
+![logo.png](logo.png)
 
 
 ---
