@@ -10,7 +10,7 @@
 ## Introduction
 
 <p>
-<img src="README_media/holiday.gif" alt="Holiday GIF" align="right" width="100" height="90" style="margin-left: 20px;">
+<img src="holiday.gif" alt="Holiday GIF" align="right" width="100" height="90" style="margin-left: 20px;">
 Welcome to Journey Genie, our console-based application that helps you plan your perfect holiday! Whether you're looking for a luxury experience, a business stay, or a fun family holiday, we've got you covered. Journey Genie eliminates the need to spend hours browsing tons of sites as it's all done in one place. Sit back, relax, and let the magic unfold...
 </p>
 
