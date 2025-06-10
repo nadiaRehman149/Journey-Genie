@@ -14,6 +14,8 @@
 Welcome to Journey Genie, our console-based application that helps you plan your perfect holiday! Whether you're looking for a luxury experience, a business stay, or a fun family holiday, we've got you covered. Journey Genie eliminates the need to spend hours browsing tons of sites as it's all done in one place. Sit back, relax, and let the magic unfold...
 </p>
 
+[![Watch the video](https://img.youtube.com/vi/2KGigfpMTfQ/maxresdefault.jpg)](https://youtu.be/2KGigfpMTfQ)
+
 ---
 <a name="main-features"></a>**Main Features:**
 
